@@ -1,0 +1,26 @@
+.bor{
+    width: 928px;
+    height: 530px;
+    border-radius: 10px;
+    box-shadow: 0px 400px purple;
+    border-color: navy;
+    position: relative;
+    left: 470px;
+    top: 50px;
+}
+.bor1{
+    width: 450px;
+    height: 500px;
+    border-radius: 20px;
+    background-image: linear-gradient(to top right, purple,blue,navy,violet);
+    position: relative;
+    top: 13px;
+    left: 10px;
+
+
+}
+.bor2{
+    width: 500px;
+    height: 600px;
+
+}
